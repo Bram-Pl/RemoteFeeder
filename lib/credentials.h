@@ -25,7 +25,7 @@ class Auth{
     }
 
     private:
-        Authentication Plessers = {"WiFi-Plessers", "******"};
-        Authentication Loiacono = {"CasaKota", "******"};
+        Authentication Plessers = {"WiFi-Plessers", "JpHh1973"};
+        Authentication Loiacono = {"CasaKota", "arrosticini"};
 };
 #endif //AUTHENTICATION_H
